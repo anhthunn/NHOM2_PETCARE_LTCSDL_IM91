@@ -1,0 +1,142 @@
+E:\Anh Thư\PETCARE\PetCareProject\bin\Debug\PetCareProject.exe.config
+E:\Anh Thư\PETCARE\PetCareProject\bin\Debug\PetCareProject.exe
+E:\Anh Thư\PETCARE\PetCareProject\bin\Debug\PetCareProject.pdb
+E:\Anh Thư\PETCARE\PetCareProject\obj\Debug\PetCareProject.csproj.AssemblyReference.cache
+E:\Anh Thư\PETCARE\PetCareProject\obj\Debug\PetCareProject.BILLHISTORY.resources
+E:\Anh Thư\PETCARE\PetCareProject\obj\Debug\PetCareProject.HOME.resources
+E:\Anh Thư\PETCARE\PetCareProject\obj\Debug\PetCareProject.LOGIN.resources
+E:\Anh Thư\PETCARE\PetCareProject\obj\Debug\PetCareProject.MANAGEMENT.resources
+E:\Anh Thư\PETCARE\PetCareProject\obj\Debug\PetCareProject.PAYMENT.resources
+E:\Anh Thư\PETCARE\PetCareProject\obj\Debug\PetCareProject.PETINFORMATION.resources
+E:\Anh Thư\PETCARE\PetCareProject\obj\Debug\PetCareProject.Properties.Resources.resources
+E:\Anh Thư\PETCARE\PetCareProject\obj\Debug\PetCareProject.STOCK.resources
+E:\Anh Thư\PETCARE\PetCareProject\obj\Debug\PetCareProject.csproj.GenerateResource.cache
+E:\Anh Thư\PETCARE\PetCareProject\obj\Debug\PetCareProject.csproj.CoreCompileInputs.cache
+E:\Anh Thư\PETCARE\PetCareProject\obj\Debug\PetCareProject.exe
+E:\Anh Thư\PETCARE\PetCareProject\obj\Debug\PetCareProject.pdb
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\bin\Debug\PetCareProject.exe.config
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\bin\Debug\PetCareProject.exe
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\bin\Debug\PetCareProject.pdb
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.csproj.AssemblyReference.cache
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.BILLHISTORY.resources
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.HOME.resources
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.LOGIN.resources
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.MANAGEMENT.resources
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.PAYMENT.resources
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.PETINFORMATION.resources
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.Properties.Resources.resources
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.STOCK.resources
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.csproj.GenerateResource.cache
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.csproj.CoreCompileInputs.cache
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.exe
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.pdb
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.ACCOUNT.resources
+E:\Anh Thư\NHÓM 2 _ ĐỒ ÁN CUỐI KỲ _ PETCARE\PetCareProject\obj\Debug\PetCareProject.ACCOUNTDETAILS.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\bin\Debug\PetCareProject.exe.config
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\bin\Debug\PetCareProject.exe
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\bin\Debug\PetCareProject.pdb
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.csproj.AssemblyReference.cache
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.ACCOUNT.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.ACCOUNTDETAILS.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.BILLHISTORY.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.HOME.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.LOGIN.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.MANAGEMENT.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.PAYMENT.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.PETINFORMATION.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.Properties.Resources.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.STOCK.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.csproj.GenerateResource.cache
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.csproj.CoreCompileInputs.cache
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.exe
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\PetCareProject\obj\Debug\PetCareProject.pdb
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.csproj.AssemblyReference.cache
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.ACCOUNT.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.ACCOUNTDETAILS.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.BILLHISTORY.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.HOME.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.LOGIN.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.MANAGEMENT.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.PAYMENT.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.PETINFORMATION.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.Properties.Resources.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.STOCK.resources
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.csproj.GenerateResource.cache
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.csproj.CoreCompileInputs.cache
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.exe
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\obj\Debug\PetCareProject.pdb
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\bin\Debug\PetCareProject.exe.config
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\bin\Debug\PetCareProject.exe
+E:\Anh Thư\[FINAL] NHOM2_LTCSDL_PETCARE\[NHOM 2] PETCARE\bin\Debug\PetCareProject.pdb
+E:\[NHOM 2] PETCARE\bin\Debug\PetCareProject.exe.config
+E:\[NHOM 2] PETCARE\bin\Debug\PetCareProject.exe
+E:\[NHOM 2] PETCARE\bin\Debug\PetCareProject.pdb
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.csproj.AssemblyReference.cache
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.ACCOUNT.resources
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.ACCOUNTDETAILS.resources
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.BILLHISTORY.resources
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.HOME.resources
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.LOGIN.resources
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.MANAGEMENT.resources
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.PAYMENT.resources
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.PETINFORMATION.resources
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.Properties.Resources.resources
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.STOCK.resources
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.csproj.GenerateResource.cache
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.csproj.CoreCompileInputs.cache
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.exe
+E:\[NHOM 2] PETCARE\obj\Debug\PetCareProject.pdb
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\bin\Debug\PetCareProject.exe.config
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\bin\Debug\PetCareProject.exe
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\bin\Debug\PetCareProject.pdb
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.csproj.AssemblyReference.cache
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.ACCOUNT.resources
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.ACCOUNTDETAILS.resources
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.BILLHISTORY.resources
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.HOME.resources
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.LOGIN.resources
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.MANAGEMENT.resources
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.PAYMENT.resources
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.PETINFORMATION.resources
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.Properties.Resources.resources
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.STOCK.resources
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.csproj.GenerateResource.cache
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.csproj.CoreCompileInputs.cache
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.exe
+E:\[NHOM 2] LAP TRINH CO SO DU LIEU\[NHOM 2] PETCARE\obj\Debug\PetCareProject.pdb
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\bin\Debug\PetCareProject.exe.config
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\bin\Debug\PetCareProject.exe
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\bin\Debug\PetCareProject.pdb
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.csproj.AssemblyReference.cache
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.ACCOUNT.resources
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.ACCOUNTDETAILS.resources
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.BILLHISTORY.resources
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.HOME.resources
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.LOGIN.resources
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.MANAGEMENT.resources
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.PAYMENT.resources
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.PETINFORMATION.resources
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.Properties.Resources.resources
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.STOCK.resources
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.csproj.GenerateResource.cache
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.csproj.CoreCompileInputs.cache
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.exe
+E:\[NHOM 2] DO AN CUOI KY LTCSDL\[NHOM 2] PETCARE\obj\Debug\PetCareProject.pdb
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\bin\Debug\PetCareProject.exe.config
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\bin\Debug\PetCareProject.exe
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\bin\Debug\PetCareProject.pdb
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.ACCOUNT.resources
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.ACCOUNTDETAILS.resources
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.BILLHISTORY.resources
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.HOME.resources
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.LOGIN.resources
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.MANAGEMENT.resources
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.PAYMENT.resources
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.PETINFORMATION.resources
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.Properties.Resources.resources
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.STOCK.resources
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.exe
+C:\Users\ASUS\Downloads\NHOM2_LTCSDL_IM91_OU-janny\obj\Debug\PetCareProject.pdb
